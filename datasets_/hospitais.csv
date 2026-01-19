@@ -1,0 +1,17 @@
+hospital_id,nome_hospital,bairro,regional,tipo,gestao,capacidade_leitos,leitos_uti,tem_ambulancia,telefone,email,latitude,longitude,data_cadastro,status
+1,Hospital Central,Centro,Regional I,Público,Direta,250,40,Sim,85 3232-1000,contato@central.gov.br,-3.7275,-38.5275,2010-05-10,Ativo
+2,Hospital Vida Nova,Aldeota,Regional II,Público,OS,180,25,Sim,(85)3232-2000,vidanova@saude.gov.br,-3.7312,-38.5004,2012-08-20,Ativo
+3,Hospital São Lucas,Meireles,Regional II,Privado,Privada,120,15,Não,85-98888-1111,saolucas@gmail.com,-3.7251,-38.4958,2015-03-15,Ativo
+4,UPA Norte,Conjunto Ceara,Regional III,Público,Direta,90,10,Sim,,upa_norte@saude.gov.br,-3.7964,-38.6051,2018-11-01,Ativo
+5,Hospital Esperança,Bom Jardim,Regional IV,Público,OS,,20,Sim,85 3344-3000,esperanca@saude.gov.br,-3.7932,-38.5887,2016-07-22,Ativo
+6,Clinica Saude+,Papicu,Regional II,Privado,Privada,60,5,Não,8532324000,,,-3.7348,-38.4859,2019-01-10,Ativo
+6,Clinica Saude+,Papicu,Regional II,Privado,Privada,60,5,Não,8532324000,,,-3.7348,-38.4859,2019-01-10,Ativo
+7,Hospital Sul,Passare,Regional V,Público,Direta,110,15,Sim,85-3456-4000,hospitalsul@saude.gov.br,-3.8214,-38.5321,2014-09-30,Ativo
+8,UPA Leste,Messejana,Regional V,Público,OS,100,12,Sim,85 99999-0000,upa_leste@saude.gov.br,-3.8412,-38.4918,2020-02-18,Ativo
+9,Hospital Novo Horizonte,,Regional I,Público,Direta,130,18,Sim,85 3211-9000,novohorizonte@saude.gov.br,-3.7600,-38.5600,2017-06-05,Ativo
+10,Hospital Antigo,Carlito Pamplona,Regional I,Público,Direta,200,30,Sim,85 3000-0000,antigo@saude.gov.br,,-38.5500,2005-01-01,Inativo
+11,Clinica Popular Oeste,Barra do Ceará,Regional III,Privado,Privada,45,,Não,85-99999-2222,clinic@popular.com,-3.7920,-38.6150,2021-05-12,Ativo
+12,Hospital Infantil,Centro,Regional I,Público,Direta,150,35,Sim,85 3222-1111,infantil@saude.gov.br,-3.7280,-38.5260,2013-10-08,Ativo
+13,UPA Sul,Passaré,Regional V,Público,OS,95,8,Sim,85 98888-7777,upa_sul@saude.gov.br,-3.8250,-38.5300,2019-12-01,Ativo
+14,Hospital São José,Meireles,Regional II,Privado,Privada,140,20,Não,85-98888-3333,, -3.7260,-38.4970,2011-04-14,Ativo
+15,Hospital Comunitário,Granja Lisboa,Regional IV,Público,Direta,80,6,Sim,85 3111-5555,comunitario@saude.gov.br,-3.7900,-38.5900,2016-06-18,Ativo
